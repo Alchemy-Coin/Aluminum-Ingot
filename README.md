@@ -16,6 +16,7 @@ sch: https://www.google.com/search?q=aluminum+melting+flux https://www.google.co
 ## Salt
 Try to use Halite instead.
 - [table salt as flux for refining aluminium cans? plus extras](https://youtu.be/4J1J8cLXwAQ)
+- [Get the Most Aluminum From Melting Cans](https://youtu.be/p0S-cwzK2GI)
 
 # Slag/Dross Recovery
 - [Massive Dross Melt - Recovering Aluminum From Dross From My Massive Can Meltdown Video of 8,405 Cans](https://youtu.be/PHUNqZkp9Hs)
