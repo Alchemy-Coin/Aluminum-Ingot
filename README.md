@@ -1,4 +1,4 @@
-# Aluminum-Ingot
+# Melting-Aluminum-Cans
 # Melting
 - [Get the Most Aluminum From Melting Cans](https://youtu.be/p0S-cwzK2GI)
 - [How to Make the Most Money from Aluminium Cans - YOU'LL BE SHOCKED!!](https://youtu.be/YX0bByLFmp0)
@@ -27,3 +27,4 @@ Try to use Halite instead.
 - [Recycling Scrap Cables Into Huge Shiny Aluminium Bars](https://youtu.be/fQbqbBpdxLY)
 - [Scrapyard Salvage 87kg Cig - ASMR Metal Melting - Trash To Treasure - Copper Brass Aluminum](https://youtu.be/zsR6MZpTMEw)
 - [529KG Massive Motor Melt - Scrapyard Salvage - 87 Year Old Motor - Bulk Copper Bars - Target Video](https://youtu.be/3FgqXQYnsyQ)
+- [3000 Soda Cans Transformed | THOUSANDS of Them](https://youtu.be/BAy3Lk1OQTo)
